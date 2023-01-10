@@ -19,6 +19,7 @@ SRR*
 *.fa
 *.bai
 *.idx
+Bos*
 
 # Mono auto generated files
 mono_crash.*
