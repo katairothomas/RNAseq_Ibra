@@ -14,12 +14,22 @@
 *.userprefs
 
 #Ignore these files
+
 SRR*
 *.vcf
 *.fa
 *.bai
-*.idx
+*.fai
+*.idx*
+*.gz
+*.fai
+*.dict
+*.sam
+*.bam
+*.fastq
 Bos*
+wget-log
+samples/*
 
 # Mono auto generated files
 mono_crash.*
