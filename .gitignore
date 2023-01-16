@@ -11,8 +11,20 @@
 *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
+
 *.userprefs
 
+# Ignore these files
+*.bam 
+*.sam 
+*.vcf 
+*.gz 
+*.fai 
+*.fastq 
+*.idx 
+*.bai 
+*bos 
+*SRR 
 # Mono auto generated files
 mono_crash.*
 
